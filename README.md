@@ -1,4 +1,4 @@
-# Globe News 3D
+# Globe News 3D 🌍
 
 Une interface web interactive avec un globe 3D filaire affichant les dernières nouvelles géolocalisées.
 
